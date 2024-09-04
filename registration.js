@@ -26,6 +26,9 @@ let userDetails ={
 saveFormData(userDetails)
 alert("saved successfully")
 
+
+window.location.href = "login.html";
+
     
 })
 
